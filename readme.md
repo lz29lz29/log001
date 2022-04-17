@@ -2,12 +2,12 @@
 
 [![Production Workflow](https://github.com/lz29lz29/log001/actions/workflows/prod.yml/badge.svg)](https://github.com/lz29lz29/log001/actions/workflows/prod.yml)
 
-* [Production Deployment](https://liming-flask.herokuapp.com/)
+* [Production Deployment](https://liming-p1-prod.herokuapp.com/)
 
 
 [![Development Workflow](https://github.com/lz29lz29/log001/actions/workflows/dev.yml/badge.svg)](https://github.com/lz29lz29/log001/actions/workflows/dev.yml)
 
-* [Developmental Deployment](https://liming-flask.herokuapp.com/)
+* [Developmental Deployment](https://liming-p1-dev.herokuapp.com/)
 
 ## Setting up CI/CD
 
