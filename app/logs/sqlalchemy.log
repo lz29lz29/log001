@@ -1,0 +1,12 @@
+2022-04-17 17:44:06,876 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2022-04-17 17:44:06,886 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
+2022-04-17 17:44:06,890 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-17 17:44:06,917 [INFO] sqlalchemy.engine.Engine: COMMIT
+2022-04-17 18:07:33,818 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2022-04-17 18:07:33,821 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
+2022-04-17 18:07:33,823 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-17 18:07:33,827 [INFO] sqlalchemy.engine.Engine: COMMIT
+2022-04-17 18:07:44,064 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2022-04-17 18:07:44,070 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
+2022-04-17 18:07:44,075 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-17 18:07:44,088 [INFO] sqlalchemy.engine.Engine: COMMIT
